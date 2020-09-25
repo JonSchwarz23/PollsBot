@@ -1,0 +1,11 @@
+{
+  "name": "pollsbot",
+  "version": "1.0.0",
+  "description": "Retrieves quality polls from 538 and posts them in a slack group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Schwarz",
+  "license": "ISC"
+}
